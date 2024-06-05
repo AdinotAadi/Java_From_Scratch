@@ -2,27 +2,35 @@ package Fundamentals.Variables;
 
 public class Variables {
     public static void main(String[] args) {
-        // Non-numeric data types -> char and boolean
-        char c = 'a';
-        boolean isAdult = true;
-        System.out.println(c);
-        System.out.println(isAdult);
+        // Primitive Data types:
+            // Numeric Data Types:
+        byte a = 10;
+        short b = 5000;
+        int c = 100000;
+        long d = 100000L;
+        float e = 234.5f;
+        double f = 123.4;
 
-        // Numerical data types -> byte, short, int, long [integral data types] and float, double [floating point data types]
-        // Integral data types - > byte, short, int and long
-        byte b = 2;
-        short s = 10;
-        int i = 1000;
-        long l = 200000000L;
-        System.out.println(b);
-        System.out.println(s);
-        System.out.println(i);
-        System.out.println(l);
+            // Non-numeric Data Types:
+        boolean g = true;
+        char h = 'A';
 
-        // Floating-point data types -> float and double
-        float f = 3.14F;
-        double d = 1000.561;
-        System.out.println(f);
-        System.out.println(d);
+        // Non-primitive Data Types:
+        String str = "Hello, World!";
+        int[] arr = {1, 2, 3, 4, 5};
+
+        System.out.println("byte value: " + a);
+        System.out.println("short value: " + b);
+        System.out.println("int value: " + c);
+        System.out.println("long value: " + d);
+        System.out.println("float value: " + e);
+        System.out.println("double value: " + f);
+        System.out.println("boolean value: " + g);
+        System.out.println("char value: " + h);
+        System.out.println("String value: " + str);
+        System.out.print("Array values: ");
+        for (int i : arr) {
+            System.out.print(i + " ");
+        }
     }
 }
