@@ -7,6 +7,7 @@ This documentation provides an overview of the fundamental concepts of Java prog
       - [Introduction](src/Fundamentals/00_Introduction.md) - An introduction to Java programming language.
     - Variables
       - [Variables](src/Fundamentals/01_Variables.md) - Understanding variables in Java.
+      - [Variables](src/Fundamentals/Variables/Variables.java) - Overview of the various data types and variables in Java.
     - Comments
       - [Comments](src/Fundamentals/Comments/Comments.java) - Explanation of comments in Java.
     - Operators
