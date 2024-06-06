@@ -46,6 +46,7 @@ class Dog {                                                         // Defining 
         System.out.println(name + " walked " + steps + " steps.");
     }
 
+    // Constructors:
     public Dog() {
         this.name = "Doggo";
         this.color = "Brown";
