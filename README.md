@@ -36,6 +36,7 @@ This documentation provides an overview of the fundamental concepts of Java prog
   - [Inheritance](src/OOPs/OOPs2/)
   - Abstraction
   - Encapsulation
+  - Polymorphism
 
 ---
 
