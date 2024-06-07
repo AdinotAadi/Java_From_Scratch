@@ -38,8 +38,8 @@ This documentation provides an overview of the fundamental concepts of Java prog
     - [Packages](src/OOPs/OOPs3/PackageBasics/)
     - [Data Hiding](src/OOPs/OOPs3/DataHiding/)
   - Abstraction
-    - [Abstract Classes](src/OOPs/OOPs4/Abstraction/AbstractClasses/)
-    - [Interfaces](sec/OOPs/OOPs4/Abstraction/Interfaces/)
+    - [Abstract Classes](src/OOPs/OOPs4/Abstraction/AbstractClasses/LearnAbstract.java)
+    - [Interfaces](src/OOPs/OOPs4/Abstraction/Interfaces/LearnInterfaces.java)
   - Polymorphism
 
 ---
