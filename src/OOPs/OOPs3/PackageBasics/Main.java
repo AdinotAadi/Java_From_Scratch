@@ -9,7 +9,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         t.name = sc.next();
         t.teach();
-        System.out.println(t.age);                  // Private access modifier on "age" attribute.
+//        System.out.println(t.age);                  // Private access modifier on "age" attribute.
         sc.close();
     }
 }
