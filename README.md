@@ -32,10 +32,14 @@ This documentation provides an overview of the fundamental concepts of Java prog
 ---
 
 - Object Oriented Programming (OOPs):
-  - [Objects and Classes](src/OOPs/OOPs1/ObjectsAndClasses.java)
+  - [Objects and Classes](src/OOPs/OOPs1/)
   - [Inheritance](src/OOPs/OOPs2/)
+  - Encapsulation:
+    - [Packages](src/OOPs/OOPs3/PackageBasics/)
+    - [Data Hiding](src/OOPs/OOPs3/DataHiding/)
   - Abstraction
-  - Encapsulation
+    - [Abstract Classes](src/OOPs/OOPs4/Abstraction/AbstractClasses/)
+    - [Interfaces](sec/OOPs/OOPs4/Abstraction/Interfaces/)
   - Polymorphism
 
 ---
