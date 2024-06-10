@@ -34,3 +34,15 @@ public class ListInterfaceMethods {
 
     }
 }
+
+/*
+* Output:
+    [10, 20, 30]
+    30
+    10
+    [10, 100, 30]
+    [100, 30]
+    1
+    1
+    [30]
+ */
