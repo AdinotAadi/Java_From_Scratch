@@ -53,4 +53,13 @@ This documentation provides an overview of the fundamental concepts of Java prog
 ---
 
 - Collections Framework:
-  - 
+  - [Collection framework methods](src/Collections/CollectionInterfaceMethods.java)
+  - Collection framework interfaces:
+    - List interface:
+      - [List interface methods](src/Collections/ListInterface/ListInterfaceMethods.java)
+      - ArrayList
+      - LinkedList
+      - Stack
+      - Vector
+    - Set interface:
+    - Map interface:
