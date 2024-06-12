@@ -57,9 +57,9 @@ This documentation provides an overview of the fundamental concepts of Java prog
   - Collection framework interfaces:
     - List interface:
       - [List interface methods](src/Collections/ListInterface/ListInterfaceMethods.java)
-      - [ArrayList](src/Collections/ListInterface/ArrayListInterface/LearnArrayLists.java)
-      - [LinkedList](src/Collections/ListInterface/LinkedListInterface/LearnLinkedLists.java)
-      - [Stack](src/Collections/ListInterface/StackInterface/LearnStacks.java)
-      - [Vector](src/Collections/ListInterface/VectorInterface/LearnVectors.java)
+      - [ArrayList](src/Collections/ListInterface/ArrayList/LearnArrayLists.java)
+      - [LinkedList](src/Collections/ListInterface/LinkedList/LearnLinkedLists.java)
+      - [Stack](src/Collections/ListInterface/Stack/LearnStacks.java)
+      - [Vector](src/Collections/ListInterface/Vector/LearnVectors.java)
     - Set interface:
     - Map interface:
