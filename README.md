@@ -61,5 +61,8 @@ This documentation provides an overview of the fundamental concepts of Java prog
       - [LinkedList](src/Collections/ListInterface/LinkedList/LearnLinkedLists.java)
       - [Stack](src/Collections/ListInterface/Stack/LearnStacks.java)
       - [Vector](src/Collections/ListInterface/Vector/LearnVectors.java)
+    - Queue Interface:
+      - [ArrayDeque](src/Collections/QueueInterface/ArrayDeque/LearnArrayDeque.java)
+      - [PriorityQueue](src/Collections/QueueInterface/PriorityQueue/LearnPriorityQueue.java)
     - Set interface:
     - Map interface:
