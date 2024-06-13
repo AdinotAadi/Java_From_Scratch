@@ -1,8 +1,6 @@
 # Java From Scratch Documentation
-=====================================
 
 ## Fundamentals (Core Java)
------------------------------
 
 ### Introduction
 * [Introduction](src/Fundamentals/00_Introduction.md) - An introduction to Java programming language.
@@ -42,7 +40,6 @@
 ---
 
 ## Object Oriented Programming (OOPs)
-------------------------------------
 
 ### Objects and Classes
 * [Objects and Classes](src/OOPs/OOPs1/) - Understanding objects and classes in Java.
@@ -74,7 +71,6 @@
 ---
 
 ## Advanced Topics
---------------------
 
 ### File Handling
 * File Handling - Understanding file handling in Java.
@@ -85,7 +81,6 @@
 ---
 
 ## Collections Framework
--------------------------
 
 ### Collection Framework Methods
 * [Collection framework methods](src/Collections/CollectionInterfaceMethods.java) - Overview of collection framework methods in Java.
