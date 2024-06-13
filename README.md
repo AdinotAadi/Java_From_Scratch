@@ -68,4 +68,4 @@ This documentation provides an overview of the fundamental concepts of Java prog
       - [HashSet](src/Collections/SetInterface/LearnSets.java)
       - [LinkedHashSet](src/Collections/SetInterface/LearnSets.java)
       - [TreeSet](src/Collections/SetInterface/LearnSets.java)
-    - Map interface:
+    - [Map interface](src/Collections/MapInterface/LearnMaps.java)
