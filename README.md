@@ -64,8 +64,5 @@ This documentation provides an overview of the fundamental concepts of Java prog
     - Queue Interface:
       - [ArrayDeque](src/Collections/QueueInterface/ArrayDeque/LearnArrayDeque.java)
       - [PriorityQueue](src/Collections/QueueInterface/PriorityQueue/LearnPriorityQueue.java)
-    - Set interface:
-      - [HashSet](src/Collections/SetInterface/LearnSets.java)
-      - [LinkedHashSet](src/Collections/SetInterface/LearnSets.java)
-      - [TreeSet](src/Collections/SetInterface/LearnSets.java)
+    - [Set interface](src/Collections/SetInterface/LearnSets.java)
     - [Map interface](src/Collections/MapInterface/LearnMaps.java)
