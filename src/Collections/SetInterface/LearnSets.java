@@ -1,9 +1,6 @@
 package Collections.SetInterface;
 
-import java.util.Set;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.TreeSet;
+import java.util.*;
 
 public class LearnSets {
     /*
@@ -14,7 +11,13 @@ public class LearnSets {
      * LinkedHashSet: Internally uses a linked list to store the elements in the set. Is slower, Adding is O(1) time, but removing in O(n) in time.
      * TreeSet: Uses a binary search tree to sort the elements of the set. Time complexity of most of the operations is O(logn).
      */
+    enum Color {
+        RED, YELLOW, GREEN
+    }
+
     public static void main(String[] args) {
+        EnumSet<Color> es= EnumSet.allOf(Color.class);              // EnumSets are rarely used.
+
         System.out.println("HashSet:");
         Set<Integer> s1 = new HashSet<>();
         System.out.println(s1.size());
