@@ -70,12 +70,7 @@
 
 ---
 
-## Advanced Topics
-
-### File Handling
-* File Handling - Understanding file handling in Java.
-
-### Exception Handling
+## Exception Handling
 * [Exception Handling](src/ExceptionHandling/Exceptions.java) - Introduction to exception handling in Java.
 
 ---
